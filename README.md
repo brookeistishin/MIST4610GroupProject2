@@ -3,7 +3,6 @@
 ## Team name and members:
 <br> 
 Giovanna Palma - [@gpalma77]
-)
 
 <br> 
 Katie Witcher - @katiewitcher
