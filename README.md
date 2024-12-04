@@ -12,7 +12,7 @@ Jack Macken- [@jackmacken](https://github.com/jackmacken/4610Project/edit/main/R
 <br> 
 Andrew Baich - @andrewbaich
 <br> 
-Brooke Istishin -[ @brookeistishin ](https://github.com/brookeistishin)
+Brooke Istishin -[ @brookeistishin ](https://github.com/brookeistishin/MIST4610GroupProject2/blob/main/README.md)
 
 <br> 
 <br> 
